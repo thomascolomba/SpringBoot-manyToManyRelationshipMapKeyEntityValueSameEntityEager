@@ -1,4 +1,4 @@
-CRUD operations on a ManyToMany relationship with a java Map<Entity1, Entity2> type with Eager fetch.<br/>
+CRUD operations on a ManyToMany relationship with a java Map<Entity1, Entity1> type with Eager fetch.<br/>
 An instance of A has a Map<B, B> (B is an entity that's both the key and value of the Map).<br/>
 <br/>
 compile & execute :<br/>
